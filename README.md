@@ -1,0 +1,3 @@
+# Performance Comparison of CNN Architectures for Detecting Malaria Diseases
+This research used deep learning algorithms like VGG-16, VGG-19, VGG-16 binary, VGG-19 binary, Alexnet, MobileNet, ResNet34, ResNet50 and CNN2D to determine malaria infected cells from images.
+From the study it is evident that algorithms named AlexNet, VGG-16, VGG-19, VGG16 binary, VGG-19 binary, MobileNet, CNN2D, ResNet34 and ResNet50 give an accuracy of 94.84%, 92%, 92%, 97.4%, 96.53%, 95.42%, 96.91%, 97.06% and 85% respectively. From the comparative analysis between these nine algorithms, this study concludes to ﬁnd ResNet34 with model accuracy 97.06% as the best accuracy giving algorithm.
